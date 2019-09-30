@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d64118dea9c7c4738edbef14e68e1da",
+    "revision": "5273b68623818983005d05b594a69434",
     "url": "/macncheese/index.html"
   },
   {
-    "revision": "c868da82dab941a74f39",
+    "revision": "5d12e66e0282df64558c",
     "url": "/macncheese/static/css/main.b83e9f18.chunk.css"
   },
   {
@@ -12,12 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/macncheese/static/js/2.08a1b8db.chunk.js"
   },
   {
-    "revision": "c868da82dab941a74f39",
-    "url": "/macncheese/static/js/main.e0621119.chunk.js"
+    "revision": "5d12e66e0282df64558c",
+    "url": "/macncheese/static/js/main.b5314d3b.chunk.js"
   },
   {
     "revision": "e2ae44ee2fb6e8656dcc",
     "url": "/macncheese/static/js/runtime-main.46cbe1f3.js"
+  },
+  {
+    "revision": "e3d350e1d852c1a3ce78b2540108a9e7",
+    "url": "/macncheese/static/media/elbow.e3d350e1.png"
   },
   {
     "revision": "ee5932569645e6ba90d64cf4bca8b285",
