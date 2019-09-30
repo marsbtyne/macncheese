@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/macncheese/static/css/main.b100e6da.chunk.css",
+    "main.js": "/macncheese/static/js/main.c367a4d0.chunk.js",
+    "main.js.map": "/macncheese/static/js/main.c367a4d0.chunk.js.map",
+    "runtime-main.js": "/macncheese/static/js/runtime-main.46cbe1f3.js",
+    "runtime-main.js.map": "/macncheese/static/js/runtime-main.46cbe1f3.js.map",
+    "static/js/2.b1bd91ab.chunk.js": "/macncheese/static/js/2.b1bd91ab.chunk.js",
+    "static/js/2.b1bd91ab.chunk.js.map": "/macncheese/static/js/2.b1bd91ab.chunk.js.map",
+    "index.html": "/macncheese/index.html",
+    "precache-manifest.644e637604f5c404fc4c3a0c3affe3ef.js": "/macncheese/precache-manifest.644e637604f5c404fc4c3a0c3affe3ef.js",
+    "service-worker.js": "/macncheese/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/macncheese/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/macncheese/static/media/logo.25bf045c.svg"
+  }
+}
