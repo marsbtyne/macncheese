@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/macncheese/static/css/main.71e952c6.chunk.css",
+    "main.css": "/macncheese/static/css/main.3b21c520.chunk.css",
     "main.js": "/macncheese/static/js/main.8c3a6c5c.chunk.js",
     "main.js.map": "/macncheese/static/js/main.8c3a6c5c.chunk.js.map",
     "runtime-main.js": "/macncheese/static/js/runtime-main.46cbe1f3.js",
@@ -8,9 +8,9 @@
     "static/js/2.c8cd8853.chunk.js": "/macncheese/static/js/2.c8cd8853.chunk.js",
     "static/js/2.c8cd8853.chunk.js.map": "/macncheese/static/js/2.c8cd8853.chunk.js.map",
     "index.html": "/macncheese/index.html",
-    "precache-manifest.8891d83efd1093dbed5fbe246e06d5b0.js": "/macncheese/precache-manifest.8891d83efd1093dbed5fbe246e06d5b0.js",
+    "precache-manifest.6ea8968f0d9bc4fb88efd39a8b43cb42.js": "/macncheese/precache-manifest.6ea8968f0d9bc4fb88efd39a8b43cb42.js",
     "service-worker.js": "/macncheese/service-worker.js",
-    "static/css/main.71e952c6.chunk.css.map": "/macncheese/static/css/main.71e952c6.chunk.css.map",
+    "static/css/main.3b21c520.chunk.css.map": "/macncheese/static/css/main.3b21c520.chunk.css.map",
     "static/media/elbow.png": "/macncheese/static/media/elbow.e3d350e1.png",
     "static/media/farfalle.png": "/macncheese/static/media/farfalle.ee593256.png",
     "static/media/logo.svg": "/macncheese/static/media/logo.25bf045c.svg",
