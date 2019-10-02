@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3a3bc729d833f04c3340b2fb431a9aa0",
+    "revision": "ee4a425348a090ea8923bac31df49442",
     "url": "/macncheese/index.html"
   },
   {
-    "revision": "4098c7ab91f3e4341626",
-    "url": "/macncheese/static/css/main.3b21c520.chunk.css"
+    "revision": "98c679241f1fb0d65170",
+    "url": "/macncheese/static/css/main.7bfd9329.chunk.css"
   },
   {
-    "revision": "cb04e6f4fd3d3a503f2a",
-    "url": "/macncheese/static/js/2.c8cd8853.chunk.js"
+    "revision": "3cf9647da95b7eb4fd57",
+    "url": "/macncheese/static/js/2.8d89cf6d.chunk.js"
   },
   {
-    "revision": "4098c7ab91f3e4341626",
-    "url": "/macncheese/static/js/main.8c3a6c5c.chunk.js"
+    "revision": "98c679241f1fb0d65170",
+    "url": "/macncheese/static/js/main.074b8b7c.chunk.js"
   },
   {
     "revision": "e2ae44ee2fb6e8656dcc",
@@ -28,8 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/macncheese/static/media/farfalle.ee593256.png"
   },
   {
+    "revision": "0a5834bd067b674802af95bc15ec3d2f",
+    "url": "/macncheese/static/media/gouda.0a5834bd.png"
+  },
+  {
     "revision": "25bf045ca257e971124f3997d89f321c",
     "url": "/macncheese/static/media/logo.25bf045c.svg"
+  },
+  {
+    "revision": "cdbbd2ba92bc499fe9708c2fbd6f8ed1",
+    "url": "/macncheese/static/media/parmesan.cdbbd2ba.png"
   },
   {
     "revision": "2556b175546d0a78819312b5f21c6242",
